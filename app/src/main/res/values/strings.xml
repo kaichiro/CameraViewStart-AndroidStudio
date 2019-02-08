@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">CameraViewStart</string>
     <string name="btn_take_pic">CameraViewStart</string>
+    <string name="error_permission_not_granted">Do not permission to use camera</string>
+    <string name="permission_request_canceled">Canceled permisison request</string>
+    <string name="title_error">Error title</string>
+    <string name="label_ok">Ok label</string>
 </resources>
