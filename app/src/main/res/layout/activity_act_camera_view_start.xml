@@ -18,6 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_take_pic"
+        android:onClick="saveImage"
         android:layout_alignParentBottom="true"/>
 
 </android.support.constraint.ConstraintLayout>
